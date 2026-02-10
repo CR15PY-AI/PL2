@@ -169,6 +169,9 @@ public class Practice2 {
                 isPalindrome = false;
                 break;
             }
+
+
+
         }
         System.out.println(isPalindrome);
     }
