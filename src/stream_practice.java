@@ -24,11 +24,11 @@ public class stream_practice {
         List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
         List<String> words = Arrays.asList("abc", "def", "wdqwd", "dqwdgr", "grgegre", "FDDDDD", "dddd", "owhefowehfpouw");
         List<Student> students = Arrays.asList(
-                new Student("Alice", "A1", 3.8),
-                new Student("Bob", "A2", 3.2),
-                new Student("Charlie", "B1", 3.9),
-                new Student("David", "B2", 2.9),
-                new Student("Eva", "C1", 3.6),
+                new Student("Azamat", "A1", 3.8),
+                new Student("AZAMAT", "A2", 3.2),
+                new Student("DONALD TRuMP", "B1", 3.9),
+                new Student("CHARLIE KIRK", "B2", 2.9),
+                new Student("AaAaAaAa", "C1", 3.6),
                 new Student("Aza", "C2", 4.0)
         );
         System.out.println(task1(numbers));
